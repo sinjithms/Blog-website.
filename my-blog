@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>My Blog</title>
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+	<header>
+		<h1>My Blog</h1>
+		<nav>
+			<ul>
+				<li><a href="#">Home</a></li>
+				<li><a href="#">About</a></li>
+				<li><a href="#">Contact</a></li>
+			</ul>
+		</nav>
+	</header>
+
+	<main>
+		<section class="post">
+			<h2>Post Title</h2>
+			<p class="meta">Posted on January 1, 2022 by John Doe</p>
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse a massa bibendum, dignissim nulla vel, sollicitudin nulla. Nunc bibendum imperdiet nulla eu euismod. Fusce nec nisl sapien. Nam eget velit ante. Aliquam ac libero nisl.</p>
+			<a href="#">Read More</a>
+		</section>
+
+		<section class="post">
+			<h2>Post Title</h2>
+			<p class="meta">Posted on January 1, 2022 by John Doe</p>
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse a massa bibendum, dignissim nulla vel, sollicitudin nulla. Nunc bibendum imperdiet nulla eu euismod. Fusce nec nisl sapien. Nam eget velit ante. Aliquam ac libero nisl.</p>
+			<a href="#">Read More</a>
+		</section>
+
+		<section class="post">
+			<h2>Post Title</h2>
+			<p class="meta">Posted on January 1, 2022 by John Doe</p>
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse a massa bibendum, dignissim nulla vel, sollicitudin nulla. Nunc bibendum imperdiet nulla eu euismod. Fusce nec nisl sapien. Nam eget velit ante. Aliquam ac libero nisl.</p>
+			<a href="#">Read More</a>
+		</section>
+	</main>
+
+	<footer>
+		<p>&copy; 2022 My Blog</p>
+	</footer>
+</body>
+</html>
